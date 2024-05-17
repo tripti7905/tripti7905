@@ -1,7 +1,7 @@
  ![MasterHead](https://camo.githubusercontent.com/f8e69e5fe8ffc96468d4a93eac747974b6cd7ed06dcef7a9d5177ed9ed97a868/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3135393964373130373031393732352e356639643363376261653633362e676966) 
 <h1 align="center">Hello <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px height=30px>, I'm Tripti Tiwari🎯️🚀️</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
-<h3 align="center">Hey it's me Himanshu.I have a keen interest in DSA, C++ and Web Development and have a huge fascination with the inner workings of technology.</h3>
+<h3 align="center">Hey it's me Tripti 🐝.I have a keen interest in DSA, C++ and Web Development and have a huge fascination with the inner workings of technology.</h3>
 <img align="right" alt="Coding" width="400"  src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tripti7905&label=Profile%20views&color=0e75b6&style=flat" alt="tripti7905" /> </p>
